@@ -36,11 +36,6 @@ export default function HomepageBody() {
                 textDecoration: "none",
               }}
             >
-              <span role="img" aria-label="resume" style={{ marginRight: 6 }}>
-                📄
-              </span>
-              如果有興趣了解更多我的經歷，歡迎參考我的
-              <a href="https://r567tw.github.io/resume"> Resume</a>
             </div>
           </div>
         </div>
